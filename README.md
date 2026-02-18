@@ -1,3 +1,1 @@
 Somente teste para o github, aprendendo a usar a plataforma para administrar melhor os projetos pessoais. ;p
-
-Teste trocando commit e removendo e resetando e blablabla
